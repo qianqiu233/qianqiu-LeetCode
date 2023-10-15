@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qianqiu-LeetCode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/lk_100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/lk_101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_20/lk_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/lk_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_26/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_26/lk_26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_27/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_27/lk_27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_70/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_70/lk_70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/lk_83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_88/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_88/lk88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/lk_94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_80/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_80/lk_80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/NQueens.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="   -2023.10.15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "E:/java_data/Project/ruiji_take_out",
+    "last_opened_file_path": "E:/java_data/qianqiu-LeetCode",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -179,7 +144,23 @@
       <workItem from="1697198814184" duration="6511000" />
       <workItem from="1697249853627" duration="2692000" />
       <workItem from="1697267435711" duration="8513000" />
+      <workItem from="1697375980274" duration="402000" />
     </task>
+    <task id="LOCAL-00001" summary="   -2023.10.15">
+      <created>1697376259387</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697376259387</updated>
+    </task>
+    <task id="LOCAL-00002" summary="   -2023.10.15">
+      <created>1697376274203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697376274203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +176,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="   -2023.10.15" />
+    <option name="LAST_COMMIT_MESSAGE" value="   -2023.10.15" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
