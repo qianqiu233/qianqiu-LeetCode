@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="   -2023.10.15" />
+    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="   -2023.10.15">
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_14/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_14/lk_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +50,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.lk_101">
+  <component name="RunManager" selected="Application.lk_14">
     <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.NQueens" />
       <module name="qianqiu-LeetCode" />
@@ -86,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.medium_80.lk_80" />
+    <configuration name="lk_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easy_14.lk_14" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.medium_80.*" />
+          <option name="PATTERN" value="easy.easy_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lk_14" />
         <item itemvalue="Application.lk_101" />
         <item itemvalue="Application.lk_83" />
         <item itemvalue="Application.lk_100" />
         <item itemvalue="Application.NQueens" />
-        <item itemvalue="Application.lk_80" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +148,7 @@
       <workItem from="1697198814184" duration="6511000" />
       <workItem from="1697249853627" duration="2692000" />
       <workItem from="1697267435711" duration="8513000" />
-      <workItem from="1697375980274" duration="402000" />
+      <workItem from="1697375980274" duration="4352000" />
     </task>
     <task id="LOCAL-00001" summary="   -2023.10.15">
       <created>1697376259387</created>
@@ -160,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697376274203</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="   -2023.10.15">
+      <created>1697376430650</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697376430650</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,7 +182,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -188,6 +211,11 @@
           <url>file://$PROJECT_DIR$/src/medium/medium_80/lk_80.java</url>
           <line>5</line>
           <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/easy/easy_14/Solution.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
