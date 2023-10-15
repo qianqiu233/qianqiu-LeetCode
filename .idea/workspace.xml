@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qianqiu-LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_100/lk_100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_101/lk_101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_20/lk_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_21/lk_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_26/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_26/lk_26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_27/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_27/lk_27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_70/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_70/lk_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_83/lk_83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_88/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_88/lk88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_94/lk_94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/medium_80/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/medium_80/lk_80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/NQueens.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2TSpr69uRUT4ONNgWyV5S6djjUr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/java_data/Project/ruiji_take_out",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.lk_101">
+    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.NQueens" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lk_100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easy_100.lk_100" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.easy_100.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lk_101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easy_101.lk_101" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.easy_101.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lk_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.medium_80.lk_80" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.medium_80.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lk_83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easy_83.lk_83" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.easy_83.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lk_101" />
+        <item itemvalue="Application.lk_83" />
+        <item itemvalue="Application.lk_100" />
+        <item itemvalue="Application.NQueens" />
+        <item itemvalue="Application.lk_80" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="" />
+      <created>1691046532774</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691046532774</updated>
+      <workItem from="1691046533942" duration="9993000" />
+      <workItem from="1691759517132" duration="3435000" />
+      <workItem from="1691824623428" duration="1193000" />
+      <workItem from="1691909055469" duration="2685000" />
+      <workItem from="1692010498376" duration="5540000" />
+      <workItem from="1692017306251" duration="1368000" />
+      <workItem from="1695388068707" duration="32000" />
+      <workItem from="1696576996754" duration="3913000" />
+      <workItem from="1696585709007" duration="520000" />
+      <workItem from="1697084341262" duration="74000" />
+      <workItem from="1697196244149" duration="2556000" />
+      <workItem from="1697198814184" duration="6511000" />
+      <workItem from="1697249853627" duration="2692000" />
+      <workItem from="1697267435711" duration="8513000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/medium_80/lk_80.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
