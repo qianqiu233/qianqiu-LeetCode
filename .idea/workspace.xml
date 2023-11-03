@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="2023.10.15-lk_14-最大公共前缀">
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_28/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_28/lk_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_35/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_35/lk_35.java" afterDir="false" />
+    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="2023.10.16-（lk_28,lk_35）">
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_169/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_169/lk_169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_58/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easy_58/lk_58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/EditDistanceWithSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/medium_80/lk_80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/medium_80/lk_80.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,23 +48,28 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/java_data/qianqiu-LeetCode&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Graduation_project/qianqiu-cloud-server&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.saveactions&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.lk_28">
-    <configuration name="lk_101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easy_101.lk_101" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="easy.easy_169" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lk_169">
+    <configuration name="DijkstraAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DijkstraAlgorithm" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easy_101.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easy_14.lk_14" />
+    <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Graph" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easy_14.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easy_28.lk_28" />
+    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ShortestPath" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easy_28.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easy_35.lk_35" />
+    <configuration name="lk_169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easy_169.lk_169" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easy_35.*" />
+          <option name="PATTERN" value="easy.easy_169.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easy_83.lk_83" />
+    <configuration name="lk_80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.medium_80.lk_80" />
       <module name="qianqiu-LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easy_83.*" />
+          <option name="PATTERN" value="medium.medium_80.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.lk_28" />
-        <item itemvalue="Application.lk_35" />
-        <item itemvalue="Application.lk_14" />
-        <item itemvalue="Application.lk_101" />
-        <item itemvalue="Application.lk_83" />
+        <item itemvalue="Application.lk_169" />
+        <item itemvalue="Application.lk_80" />
+        <item itemvalue="Application.Graph" />
+        <item itemvalue="Application.DijkstraAlgorithm" />
+        <item itemvalue="Application.ShortestPath" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +162,16 @@
       <workItem from="1697249853627" duration="2692000" />
       <workItem from="1697267435711" duration="8513000" />
       <workItem from="1697375980274" duration="5389000" />
-      <workItem from="1697431027869" duration="10347000" />
+      <workItem from="1697431027869" duration="10409000" />
+      <workItem from="1697462435484" duration="16000" />
+      <workItem from="1697630865001" duration="183000" />
+      <workItem from="1697633221870" duration="5775000" />
+      <workItem from="1697692739395" duration="4814000" />
+      <workItem from="1698070637107" duration="2204000" />
+      <workItem from="1698115636188" duration="16000" />
+      <workItem from="1698827256543" duration="2534000" />
+      <workItem from="1698902719574" duration="2179000" />
+      <workItem from="1698992847104" duration="4333000" />
     </task>
     <task id="LOCAL-00001" summary="   -2023.10.15">
       <created>1697376259387</created>
@@ -184,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697381492434</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="2023.10.16-（lk_28,lk_35）">
+      <created>1697462393830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1697462393830</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -216,17 +240,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="   -2023.10.15" />
     <MESSAGE value="2023.10.15-lk_14-最大公共前缀" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.10.15-lk_14-最大公共前缀" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/medium/medium_80/lk_80.java</url>
-          <line>5</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="2023.10.16-（lk_28,lk_35）" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.10.16-（lk_28,lk_35）" />
   </component>
 </project>
