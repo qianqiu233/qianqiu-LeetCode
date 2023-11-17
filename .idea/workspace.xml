@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="2023.11.3（lk_58,lk_80,lk_169）">
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_121/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_121/lk_121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_125/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_125/lk_125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_168/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_168/lk_168.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_392/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easy_392/lk_392.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_11/lk_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_167/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_167/lk_167.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_55/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_55/lk_55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_72/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/medium_72/lk_72.java" afterDir="false" />
+    <list default="true" id="a4235e88-abf0-4b04-b8f2-906104b27b80" name="Changes" comment="2023.11.17（lk_11)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/medium_11/lk_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/medium_11/lk_11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,28 +36,41 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/java_data/qianqiu-LeetCode&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.other&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "E:/java_data/qianqiu-LeetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="easy.easy_169" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.lk_72">
+  <component name="RunManager" selected="Application.lk_11">
+    <configuration name="lk_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.medium_11.lk_11" />
+      <module name="qianqiu-LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="medium.medium_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="lk_125" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easy_125.lk_125" />
       <module name="qianqiu-LeetCode" />
@@ -111,19 +110,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lk_55" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.medium_55.lk_55" />
-      <module name="qianqiu-LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.medium_55.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="lk_72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="medium.medium_72.lk_72" />
       <module name="qianqiu-LeetCode" />
@@ -139,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.lk_11" />
         <item itemvalue="Application.lk_72" />
         <item itemvalue="Application.lk_167" />
         <item itemvalue="Application.lk_392" />
         <item itemvalue="Application.lk_125" />
-        <item itemvalue="Application.lk_55" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +176,8 @@
       <workItem from="1699967494286" duration="5962000" />
       <workItem from="1700045037399" duration="107000" />
       <workItem from="1700054220841" duration="6155000" />
-      <workItem from="1700110525386" duration="6876000" />
+      <workItem from="1700110525386" duration="8169000" />
+      <workItem from="1700225001392" duration="4351000" />
     </task>
     <task id="LOCAL-00001" summary="   -2023.10.15">
       <created>1697376259387</created>
@@ -234,7 +221,21 @@
       <option name="project" value="LOCAL" />
       <updated>1699021205323</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2023.11.16（lk_11,lk_55,lk_72,lk_121,lk_125,lk_167,lk_168,lk_392)">
+      <created>1700135227785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1700135227785</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2023.11.17（lk_11)">
+      <created>1700231967163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700231967163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,7 +252,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -268,6 +269,8 @@
     <MESSAGE value="2023.10.15-lk_14-最大公共前缀" />
     <MESSAGE value="2023.10.16-（lk_28,lk_35）" />
     <MESSAGE value="2023.11.3（lk_58,lk_80,lk_169）" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.11.3（lk_58,lk_80,lk_169）" />
+    <MESSAGE value="2023.11.16（lk_11,lk_55,lk_72,lk_121,lk_125,lk_167,lk_168,lk_392)" />
+    <MESSAGE value="2023.11.17（lk_11)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.11.17（lk_11)" />
   </component>
 </project>
